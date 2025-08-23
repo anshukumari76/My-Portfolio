@@ -1,0 +1,2 @@
+# My-Portfolio
+This project is a responsive personal portfolio website built using HTML, CSS, and JavaScript. It showcases my projects, skills, and resume in a clean and interactive design. The site includes dedicated sections for about me, projects, and contact information, along with buttons linking to GitHub repositories. Designed with modern UI/UX practices, the portfolio highlights my technical expertise while providing an engaging browsing experience for potential employers and collaborators.
